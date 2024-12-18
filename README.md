@@ -4,22 +4,15 @@ A powerful ZIP file processor with repair capabilities and user-friendly interfa
 
 ## Download Options
 
-- [ZIPHero.exe](releases/ZIPHero.exe) - Windows executable
 - [ZIPHero.py](releases/ZIPHero.py) - Python source code
 
 ## Quick Start Guide
-
-### Using the Executable (Windows)
-
-1. Download `ZIPHero.exe`
-2. Double-click to run
-3. No installation needed!
 
 ### Using Python Source
 
 Requirements:
 ```bash
-Python 3.7+
+Python 10.7+
 tkinter (usually included with Python)
 ```
 
@@ -92,8 +85,6 @@ pyinstaller --onefile --windowed ZIPHero.py
 ## Updates
 
 - v1.0: Initial release
-- v1.1: Added repair capabilities
-- v1.2: GUI improvements
 
 ## License
 
