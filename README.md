@@ -72,7 +72,7 @@ python ZIPHero.py myfile.zip extracted 5
 
 - Check the log file: `zip_processor.log`
 - Files are backed up in: `backups` folder
-- Contact: your@email.com
+- Contact: john@nordchain.io
 
 ## Building from Source
 
