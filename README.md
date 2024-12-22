@@ -2,6 +2,17 @@
 
 A powerful ZIP file processor with repair capabilities and user-friendly interface.
 
+# Important Note 🚨🚨
+### When running the .exe file for the first time, Windows Defender or other antivirus software may flag it as potentially unsafe. This is a common occurrence with executables created via PyInstaller, especially for smaller developers without a verified code-signing certificate.
+
+### Why This Happens
+Antivirus software sometimes misidentifies unsigned applications or compressed executables as threats due to their structure.
+Rest assured, ZIPHero is safe to use and contains no malicious code.
+
+### How to Proceed
+Allow the application through your antivirus software.
+If you're still concerned, review the source code (available on GitHub) and compile it yourself.
+
 ## Download Options
 
 - [ZIPHero.py](releases/ZIPHero.py) - Python source code
