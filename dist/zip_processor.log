@@ -1,0 +1,16 @@
+2024-12-22 02:55:33,342 - WARNING - Standard extraction failed, trying fallback methods: 'ZipProcessor' object has no attribute '_extract_single_file'
+2024-12-22 02:55:33,342 - INFO - 
+        Processing Summary:
+        Total Files: 1
+        Successfully Processed: 1
+        Failed: 0
+        Success Rate: 100.00%
+        
+2024-12-22 02:56:12,060 - WARNING - Standard extraction failed, trying fallback methods: 'ZipProcessor' object has no attribute '_extract_single_file'
+2024-12-22 02:56:12,062 - INFO - 
+        Processing Summary:
+        Total Files: 1
+        Successfully Processed: 1
+        Failed: 0
+        Success Rate: 100.00%
+        
