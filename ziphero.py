@@ -415,10 +415,10 @@ class ZipAutoRepair:
                         z.pwd = password.encode('utf-8')
                         # Attempt to read the first file to check password
                         z.testzip()
-                        logging.info(f"Successfully unlocked ZIP with password: {password}")
+                        logging.info("Successfully unlocked ZIP with a provided password.")
                         return password
                     except RuntimeError:
-                        logging.warning(f"Incorrect password: {password}")
+                        logging.warning("Incorrect password provided.")
                         continue
             logging.error("Failed to unlock ZIP file with provided password list.")
             return None
